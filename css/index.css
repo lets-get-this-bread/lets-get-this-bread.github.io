@@ -102,7 +102,7 @@ a:active {
 }
 
 .title {
-  background-image: url("header.jpg");
+  background-image: url("../img/header.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
